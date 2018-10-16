@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'bif-iconfont';
   src:
-    url('fonts/bif-iconfont.ttf?dyoia') format('truetype'),
-    url('fonts/bif-iconfont.woff?dyoia') format('woff'),
-    url('fonts/bif-iconfont.svg?dyoia#bif-iconfont') format('svg');
+    url('fonts/bif-iconfont.ttf?3gdoq1') format('truetype'),
+    url('fonts/bif-iconfont.woff?3gdoq1') format('woff'),
+    url('fonts/bif-iconfont.svg?3gdoq1#bif-iconfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -28,4 +28,10 @@
 }
 .icon-SymbolWLogotype:before {
   content: "\e901";
+}
+.icon-twitter:before {
+  content: "\eef5";
+}
+.icon-github:before {
+  content: "\ef0f";
 }
